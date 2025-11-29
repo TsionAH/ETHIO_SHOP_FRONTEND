@@ -78,13 +78,13 @@ If someone wants to run the frontend locally:
 1. **Clone the repository**
 
 ```bash
-git clone <FRONTEND_REPO_LINK>
+git clone [<FRONTEND_REPO_LINK>](https://github.com/TsionAH/ETHIO_SHOP_FRONTEND)
 ```
 
 2. **Navigate into the project folder**
 
 ```bash
-cd ethio-shop-frontend
+cd ethio-shop
 ```
 
 3. **Install dependencies** (if using npm)
@@ -132,7 +132,7 @@ This frontend communicates with the backend via API endpoints. Ensure the backen
 ## Testing with Postman
 
 1. Open [Postman](https://www.postman.com/).
-2. Use the live backend URL (provided separately) to test endpoints.
+2. Use the live backend URL [(provided separately)](https://backend-capstone1-9.onrender.com/ ) to test endpoints.
 3. Make requests like GET, POST, PUT, DELETE to verify frontend-backend integration.
 4. Examples:
 
@@ -160,7 +160,6 @@ _(Add screenshots of the homepage, cart, product page, merchant dashboard, check
 ## Contact
 
 - **Author:** Tsion Alemu Handiso
-- **Email:** [Your Email Here]
 - **GitHub:** [https://github.com/TsionAH](https://github.com/TsionAH)
 
 ---
